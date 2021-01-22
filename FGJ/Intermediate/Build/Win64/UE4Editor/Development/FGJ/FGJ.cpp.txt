@@ -1,0 +1,2 @@
+E:\Projects\FeelGoodJam\FGJ\Intermediate\Build\Win64\UE4Editor\Development\FGJ\Definitions.FGJ.h
+e:\projects\feelgoodjam\fgj\source\fgj\FGJ.h

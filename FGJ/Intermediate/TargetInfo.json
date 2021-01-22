@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FGJ",
+			"Path": "E:\\Projects\\FeelGoodJam\\FGJ\\Source\\FGJ.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FGJEditor",
+			"Path": "E:\\Projects\\FeelGoodJam\\FGJ\\Source\\FGJEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

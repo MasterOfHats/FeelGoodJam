@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Projects\\FeelGoodJam\\FGJ\\Source\\FGJ\\FGJ.Build.cs",
+		"E:\\Projects\\FeelGoodJam\\FGJ\\Source\\FGJ.Target.cs",
+		"E:\\Projects\\FeelGoodJam\\FGJ\\Source\\FGJEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
