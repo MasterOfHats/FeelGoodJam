@@ -1,17 +1,17 @@
 ---,Flavors,PreparationTime,Description,Mesh,PresenterMesh,Name
-ChocolateCake,"(Sweet,Creamy)",Short,Cake description,None,None,ChocolateCake
-Lemon Meringue Pie,"(Sweet,Creamy)",Short,Cake description,None,None,Lemon Meringue Pie
-Rainbow Macarons,"(Sweet,Creamy)",Short,Cake description,None,None,Rainbow Macarons
-Strawberry Shortcake,"(Sweet,Creamy)",Short,Cake description,None,None,Strawberry Shortcake
-Floral Pie,"(Sweet,Creamy)",Short,Cake description,StaticMesh'/Game/FGJ/Art/Cakes/SM_StrawberryShortcake.SM_StrawberryShortcake',StaticMesh'/Game/FGJ/Art/Cakes/SM_StrawberryShortcake.SM_StrawberryShortcake',Floral Pie
-Matcha Ice Cream Swiss Roll,"(Sweet,Creamy)",Short,Cake description,StaticMesh'/Game/FGJ/Art/Cakes/SM_FloralPie.SM_FloralPie',StaticMesh'/Game/FGJ/Art/Cakes/SM_FloralPie.SM_FloralPie',Matcha Ice Cream Swiss Roll
-Eclairs,"(Sweet,Creamy)",Short,Cake description,None,None,Eclairs
-Red Velvet Cupcakes,"(Sweet,Creamy)",Short,Cake description,StaticMesh'/Game/FGJ/Art/Cakes/SM_Eclair.SM_Eclair',StaticMesh'/Game/FGJ/Art/Cakes/SM_Eclair.SM_Eclair',Red Velvet Cupcakes
-Cookies,"(Sweet,Creamy)",Short,Cake description,None,None,Cookies
-Apple Caramel,"(Sweet,Creamy)",Short,Cake description,None,None,Apple Caramel
-Honey Cake,"(Sweet,Creamy)",Short,Cake description,None,StaticMesh'/Game/FGJ/Art/Cakes/SM_PresentingHoneyCake.SM_PresentingHoneyCake',Honey Cake
-Tiramisu,"(Sweet,Creamy)",Short,Cake description,None,None,Tiramisu
-Creme brulee,"(Sweet,Creamy)",Short,Cake description,StaticMesh'/Game/FGJ/Art/Cakes/SM_Tiramisu.SM_Tiramisu',StaticMesh'/Game/FGJ/Art/Cakes/SM_Tiramisu.SM_Tiramisu',Creme brulee
-Pretzel,"(Sweet,Creamy)",Short,Cake description,None,None,Pretzel
-Flan,"(Sweet,Creamy)",Short,Cake description,StaticMesh'/Game/FGJ/Art/SM_Pretzel.SM_Pretzel',StaticMesh'/Game/FGJ/Art/SM_Pretzel.SM_Pretzel',Flan
-DanishPastries,"(Sweet,Creamy)",Short,Cake description,None,None,Danish Pastries
+ChocolateCake,"(Sweet,Creamy)","Short","The ultimate indulgence","StaticMesh'/Game/FGJ/Art/Cakes/SM_ChocolateCake.SM_ChocolateCake'","StaticMesh'/Game/FGJ/Art/Cakes/SM_ChocolateCake.SM_ChocolateCake'","ChocolateCake"
+LemonMeringuePie,"(Sweet,Creamy)","Short","Cake description","None","None","Lemon Meringue Pie"
+RainbowMacarons,"(Sweet,Creamy)","Short","Cake description","StaticMesh'/Game/FGJ/Art/Cakes/SM_Macaron.SM_Macaron'","None","Rainbow Macarons"
+StrawberryShortcake,"(Sweet,Creamy)","Short","Big boi cake","StaticMesh'/Game/FGJ/Art/Cakes/SM_StrawberryShortcake.SM_StrawberryShortcake'","StaticMesh'/Game/FGJ/Art/Cakes/SM_StrawberryShortcake.SM_StrawberryShortcake'","Strawberry Shortcake"
+FloralPie,"(Sweet,Creamy)","Short","The prettiest of pies","StaticMesh'/Game/FGJ/Art/Cakes/SM_FloralPie.SM_FloralPie'","StaticMesh'/Game/FGJ/Art/Cakes/SM_FloralPie.SM_FloralPie'","Floral Pie"
+MatchaIceCreamSwissRoll,"(Sweet,Creamy)","Short","I actually had to google to make sure it actually existed and it wasn't just the artists trying to cram as many cakes into one.","StaticMesh'/Game/FGJ/Art/Cakes/SM_SwissRoll.SM_SwissRoll'","StaticMesh'/Game/FGJ/Art/Cakes/SM_SwissRollP.SM_SwissRollP'","Matcha Ice Cream Swiss Roll"
+Eclairs,"(Sweet,Creamy)","Short","Someone just took choux pastry and just made it... very loooooong","StaticMesh'/Game/FGJ/Art/Cakes/SM_EclairP.SM_EclairP'","StaticMesh'/Game/FGJ/Art/Cakes/SM_EclairP.SM_EclairP'","Eclairs"
+RedVelvetCupcakes,"(Sweet,Creamy)","Short","It's super basic... but damn it does taste good.","StaticMesh'/Game/FGJ/Art/Cakes/SM_RedVelvetCupcake.SM_RedVelvetCupcake'","StaticMesh'/Game/FGJ/Art/Cakes/SM_RedVelvetCupcakeP.SM_RedVelvetCupcakeP'","Red Velvet Cupcakes"
+Cookies,"(Sweet,Creamy)","Short","Cake description","None","None","Cookies"
+AppleCaramel,"(Sweet,Creamy)","Short","How... how do you eat this thing?","StaticMesh'/Game/FGJ/Art/Cakes/SM_CandyApple.SM_CandyApple'","StaticMesh'/Game/FGJ/Art/Cakes/SM_CandyAppleP.SM_CandyAppleP'","Apple Caramel"
+HoneyCake,"(Sweet,Creamy)","Short","Da look gud!","StaticMesh'/Game/FGJ/Art/Cakes/SM_HoneyCakes.SM_HoneyCakes'","StaticMesh'/Game/FGJ/Art/Cakes/SM_HoneyCakesP.SM_HoneyCakesP'","Honey Cake"
+Tiramisu,"(Sweet,Creamy)","Short","Looks like it's been plucked out of an infinitely large cake","StaticMesh'/Game/FGJ/Art/Cakes/SM_Tiramisu.SM_Tiramisu'","StaticMesh'/Game/FGJ/Art/Cakes/SM_Tiramisu.SM_Tiramisu'","Tiramisu"
+Cremebrulee,"(Sweet,Creamy)","Short","Cake description","StaticMesh'/Game/FGJ/Art/Cakes/SM_Creme_Brulee_.SM_Creme_Brulee_'","StaticMesh'/Game/FGJ/Art/Cakes/SM_CremeBruleeP.SM_CremeBruleeP'","Creme brulee"
+Pretzel,"(Sweet,Creamy)","Short","Bread... salt... Germans have the best naming.","StaticMesh'/Game/FGJ/Art/Cakes/SM_Pretzel.SM_Pretzel'","StaticMesh'/Game/FGJ/Art/Cakes/SM_PretzelP.SM_PretzelP'","Pretzel"
+Flan,"(Sweet,Creamy)","Short","Everyone likes the flan. Even if you don't like the taste, you have to admit it rocks... like literally... it rocks back and forth","StaticMesh'/Game/FGJ/Art/Cakes/SM_Flanc.SM_Flanc'","StaticMesh'/Game/FGJ/Art/Cakes/SM_Flanc.SM_Flanc'","Flan"
+DanishPastries,"(Sweet,Creamy)","Short","Cake description","None","None","Danish Pastries"
